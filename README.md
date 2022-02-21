@@ -869,9 +869,8 @@ _For example, Marisa rolls 3d6 for MIGHT, getting an 11. She records 0 on her ch
    </td>
    <td><strong>CRAFT</strong>
    </td>
-   <td>2+<strong>CRAFT</strong>+
-<p>
-<strong>ZEAL</strong>
+   <td>
+      2+<strong>CRAFT</strong>+<strong>ZEAL</strong>
    </td>
    <td>Close
    </td>
