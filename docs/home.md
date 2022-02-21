@@ -1051,6 +1051,7 @@ Penalty
 </table>
 
 _* Until destroyed._
+
 _+ The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
 
 **Tech:** The name of the item. Players can dictate what their items look like or what exactly they are.
