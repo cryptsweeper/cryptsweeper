@@ -757,7 +757,7 @@ _For example, Marisa rolls 3d6 for MIGHT, getting an 11. She records 0 on her ch
 
 <table>
   <tr>
-   <td>Weapon
+   <td> Weapon
    </td>
    <td>Slots
    </td>
@@ -887,13 +887,14 @@ _For example, Marisa rolls 3d6 for MIGHT, getting an 11. She records 0 on her ch
 </table>
 
 
-**Weapon: **The name of the weapon. What does it look like? How do you wield it? Get creative!
+**Weapon:** The name of the weapon. What does it look like? How do you wield it? Get creative!
 
-**Slots: **How many inventory slots the weapon occupies.
+**Slots:** How many inventory slots the weapon occupies.
 
-**Hands: **How many hands it requires to use the weapon effectively. To learn more about dual-wielding, read the “Combat” chapter.
+**Hands:** How many hands it requires to use the weapon effectively. To learn more about dual-wielding, read the “Combat” chapter.
 
-**Damage: **How much damage the weapon deals when you successfully hit an enemy with it. Add your Ability when you see it mentioned.  \
+**Damage:** How much damage the weapon deals when you successfully hit an enemy with it. Add your Ability when you see it mentioned.
+
 _E.g.- Marisa has +1 **MIGHT **and hits a psycho-spider with her TactiAxe. She deals 2+**MIGHT** damage, for a total of 3._
 
 **Range:** The effective range of the weapon. Cumulative; if a weapon is effective at Close, it also is effective at Beside. To learn more about ranges in Crypt Sweepers, read the “Ranges” section in the next chapter.
@@ -956,15 +957,15 @@ Penalty
 </table>
 
 
-**Armor: **The type of armor. These are broad intentionally. Powered armor specifically is “tech armor” and is somewhat more niche.
+**Armor:** The type of armor. These are broad intentionally. Powered armor specifically is “tech armor” and is somewhat more niche.
 
-**Slots: **How many inventory slots the armor occupies.
+**Slots:** How many inventory slots the armor occupies.
 
-**Soak: **How effective the armor is. If you are wearing armor, when you would take damage,** reduce the damage by the Soak **listed in the table.
+**Soak:** How effective the armor is. If you are wearing armor, when you would take damage,** reduce the damage by the Soak **listed in the table.
 
-**AGILITY Penalty: **How drastic your penalty to **AGILITY **tests is when wearing the armor.
+**AGILITY Penalty:** How drastic your penalty to **AGILITY **tests is when wearing the armor.
 
-**Enhance: **Powered Armor specifically enhances its wearer’s **MIGHT**. When wearing Powered Armor, you gain advantage on all **MIGHT **tests.
+**Enhance:** Powered Armor specifically enhances its wearer’s **MIGHT**. When wearing Powered Armor, you gain advantage on all **MIGHT** tests.
 
 
 ## Sweep Tech
@@ -1068,9 +1069,9 @@ _* Until destroyed._
 
 _𐠒 The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
 
-**Tech: **The name of the item. Players can dictate what their items look like or what exactly they are.
+**Tech:** The name of the item. Players can dictate what their items look like or what exactly they are.
 
-**Slots: **How many inventory slots the armor occupies.
+**Slots:** How many inventory slots the armor occupies.
 
 **Uses:** How many times a Sweeper can use the item before it is broken and unusable.
 
@@ -1450,6 +1451,4 @@ The intern follows your commands and trusts your ability as a Sweeper. They are,
 
 Alternatively, play another game system keeping the same character. *Support other developers, buy indie products!*
 
-**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**
-
-                                                                                                                                                                                      
+**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**                                                                                                                                                                              
