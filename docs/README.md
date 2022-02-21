@@ -747,137 +747,16 @@ _For example, Marisa rolls 3d6 for MIGHT, getting an 11. She records 0 on her ch
 
 ## Weapons
 
-<table>
-  <tr>
-   <td> Weapon
-   </td>
-   <td>Slots
-   </td>
-   <td>Wield
-   </td>
-   <td>Add
-   </td>
-   <td>Damage
-   </td>
-   <td>Range
-   </td>
-  </tr>
-  <tr>
-   <td>Rock
-   </td>
-   <td>1
-   </td>
-   <td>1h
-   </td>
-   <td><strong>MIGHT</strong>
-   </td>
-   <td>1
-   </td>
-   <td>Beside
-   </td>
-  </tr>
-  <tr>
-   <td>Autoshiv
-   </td>
-   <td>1
-   </td>
-   <td>1h
-   </td>
-   <td><strong>MIGHT</strong>
-   </td>
-   <td>1+<strong>AGILITY</strong>
-   </td>
-   <td>Beside
-   </td>
-  </tr>
-  <tr>
-   <td>TactiAxe
-   </td>
-   <td>2
-   </td>
-   <td>1h
-   </td>
-   <td><strong>MIGHT</strong>
-   </td>
-   <td>2+<strong>MIGHT</strong>
-   </td>
-   <td>Beside
-   </td>
-  </tr>
-  <tr>
-   <td>Z.Hander
-   </td>
-   <td>3
-   </td>
-   <td>2h
-   </td>
-   <td><strong>MIGHT</strong>
-   </td>
-   <td>3+<strong>MIGHT</strong>
-   </td>
-   <td>Close
-   </td>
-  </tr>
-  <tr>
-   <td>Potato Gun
-   </td>
-   <td>1
-   </td>
-   <td>1h
-   </td>
-   <td><strong>CRAFT</strong>
-   </td>
-   <td>1
-   </td>
-   <td>Close
-   </td>
-  </tr>
-  <tr>
-   <td>TactiBow
-   </td>
-   <td>2
-   </td>
-   <td>2h
-   </td>
-   <td><strong>CRAFT</strong>
-   </td>
-   <td>1+<strong>CRAFT</strong>
-   </td>
-   <td>Far
-   </td>
-  </tr>
-  <tr>
-   <td>Boltcaster
-   </td>
-   <td>3
-   </td>
-   <td>2h
-   </td>
-   <td><strong>CRAFT</strong>
-   </td>
-   <td>2+<strong>CRAFT</strong>
-   </td>
-   <td>Far
-   </td>
-  </tr>
-  <tr>
-   <td>Slugger
-   </td>
-   <td>4
-   </td>
-   <td>2h
-   </td>
-   <td><strong>CRAFT</strong>
-   </td>
-   <td>2+<strong>CRAFT</strong>+
-<p>
-<strong>ZEAL</strong>
-   </td>
-   <td>Close
-   </td>
-  </tr>
-</table>
-
+| Weapon     | Slots | Wield | Add     | Damage | Range  |
+|------------|-------|-------|---------|--------|--------|
+| Rock       | 1     | 1h    | MIGHT   | 1      | Beside |
+| Autoshiv   | 1     | 1h    | MIGHT   | 1d4    | Beside |
+| TactiAxe   | 2     | 1h    | MIGHT   | 1d6    | Beside |
+| Z.Hander   | 3     | 2h    | MIGHT   | 1d8    | Beside |
+| Potato Gun | 1     | 1h    | CRAFT   | 1      | Close  |
+| Tactibow   | 2     | 2h    | AGILITY | 1d6    | Far    |
+| Boltcaster | 3     | 2h    | CRAFT   | 1d8    | Far    |
+| Slugger    | 4     | 2h    | CRAFT   | 2d6    | Close  |
 
 **Weapon:** The name of the weapon. What does it look like? How do you wield it? Get creative!
 
@@ -891,63 +770,13 @@ _E.g.- Marisa has +1 **MIGHT **and hits a psycho-spider with her TactiAxe. She d
 
 **Range:** The effective range of the weapon. Cumulative; if a weapon is effective at Close, it also is effective at Beside. To learn more about ranges in Crypt Sweepers, read the “Ranges” section in the next chapter.
 
-
 ## Armor
 
-
-<table>
-  <tr>
-   <td>Armor
-   </td>
-   <td>Slots
-   </td>
-   <td>Soak
-   </td>
-   <td><strong>AGILITY</strong>
-<p>
-Penalty
-   </td>
-   <td>Enhance
-   </td>
-  </tr>
-  <tr>
-   <td>Makeshift
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>-1
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Adequate
-   </td>
-   <td>2
-   </td>
-   <td>2
-   </td>
-   <td>-2
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>Powered
-   </td>
-   <td>4
-   </td>
-   <td>2+<strong>ZEAL</strong>
-   </td>
-   <td>Disadvantage
-   </td>
-   <td><strong>MIGHT</strong>
-   </td>
-  </tr>
-</table>
-
+| Armor     | Slots | Soak       | **AGILITY** Penalty | Enhance   |
+|-----------|-------|------------|---------------------|-----------|
+| Makeshift | 1     | 1          | -1                  | N/A       |
+| Adequate  | 2     | 2          | -2                  | N/A       |
+| Powered   | 4     | 2+**ZEAL** | Disadvantage        | **MIGHT** |
 
 **Armor:** The type of armor. These are broad intentionally. Powered armor specifically is “tech armor” and is somewhat more niche.
 
@@ -959,109 +788,23 @@ Penalty
 
 **Enhance:** Powered Armor specifically enhances its wearer’s **MIGHT**. When wearing Powered Armor, you gain advantage on all **MIGHT** tests.
 
-
 ## Sweep Tech
 
-
-<table>
-  <tr>
-   <td>Tech
-   </td>
-   <td>Slots
-   </td>
-   <td>Uses
-   </td>
-   <td>Effect
-   </td>
-  </tr>
-  <tr>
-   <td>Flash Wand
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>Stun all enemies in Close range for <strong>d6 </strong>rounds. 
-   </td>
-  </tr>
-  <tr>
-   <td>Magnetic Gauntlet
-   </td>
-   <td>1
-   </td>
-   <td>∞
-   </td>
-   <td>You can Grab twice as much during combat.
-   </td>
-  </tr>
-  <tr>
-   <td>Decoy
-   </td>
-   <td>2
-   </td>
-   <td>∞*
-   </td>
-   <td>Deploy a Sweeper decoy with<strong> 4 HP</strong>. Enemies are lured to it until they destroy it.
-   </td>
-  </tr>
-  <tr>
-   <td>Suction boots
-   </td>
-   <td>1
-   </td>
-   <td>2
-   </td>
-   <td>You can walk along ceilings or walls until you choose to touch ground again.
-   </td>
-  </tr>
-  <tr>
-   <td>NanoPutty
-   </td>
-   <td>1
-   </td>
-   <td>1
-   </td>
-   <td>You can adhere NanoPutty to any physical surface and it will search for, find, and disarm any traps it comes into contact with.
-   </td>
-  </tr>
-  <tr>
-   <td>Sphere drone
-   </td>
-   <td>0
-   </td>
-   <td>∞*
-   </td>
-   <td>A small, ball-shaped drone with <strong>2 HP</strong>. It obeys the simple commands: move, help, nudge.𐠒
-   </td>
-  </tr>
-  <tr>
-   <td>X-Ray spex
-   </td>
-   <td>1
-   </td>
-   <td>3
-   </td>
-   <td>See through most solid objects, looking through and identifying the shape and size of: treasure, enemies, and other recognizable forms.
-   </td>
-  </tr>
-  <tr>
-   <td>SNEAKers
-   </td>
-   <td>1
-   </td>
-   <td>∞
-   </td>
-   <td>Gain advantage on <strong>AGILITY</strong> checks pertaining to Noise or stealth.
-   </td>
-  </tr>
-</table>
-
+| Tech              | Slots | Uses | Effect                                                                                                                                                                                                         |
+|-------------------|-------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Flash Wand        | 1     | 1    | Stun all enemies in **Close** range for **d6** rounds.                                                                                                                                                         |
+| Adequate          | 2     | 2    | -2                                                                                                                                                                                                             |
+| Magnetic gauntlet | 1     | Inf  | You can Grab twice as much during combat.                                                                                                                                                                      |
+| Decoy             | 2     | Inf* | Deploy a Sweeper decoy with **4 HP**. Enemies are lured to it until they destroy it.                                                                                                                           |
+| Suction boots     | 1     | 2    | You can walk along ceilings or walls until you touch ground again.                                                                                                                                             |
+| NanoPutty         | 1     | 1    | You can adhere the NanoPutty to any physical surface and it will search for, find, and disarm any traps it comes into contact with.                                                                            |
+| Sphere drone      | 0     | Inf* | A small, ball-shaped drone with **2 HP**. It obeys the simple commands: _Move_, _Help_, and _Nudge_.+                                                                                                          |
+| X-ray spex        | 1     | 3    | See through most solid objects. A use turns the glasses on for several seconds, allowing the wearer to look in one direction and discern the shape and size of treasure, enemies, or other recognizable forms. |
+| SNEAKers          | 1     | Inf  | Gain advantage on **AGILITY** checks pertaining to stealth and/or making Noise.                                                                                                                                |
 
 _* Until destroyed._
 
-_** The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
-
-_𐠒 The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
+_+ The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
 
 **Tech:** The name of the item. Players can dictate what their items look like or what exactly they are.
 
@@ -1109,7 +852,7 @@ Sweep Stubs are the only items of value for the Sweeper. With them, they can pur
 
 Loot is represented in **Crypt Sweeper** with Loot cards. When a room has Loot, the keeper will draw from a randomized Loot deck to determine what it is. Loot cards share this format:
 
-_[Picture of loot card.]_
+
 
 **_Picture:_** A pictorial representation of the loot. 
 
@@ -1133,44 +876,13 @@ Most treasure Sweepers obtain will take up 1 slot in their inventory. 100 coins 
 
 A **Test** is always a **d20** roll plus one Ability. The Keeper will ask the Sweepers to make tests when it is appropriate. The difficulty rating (or **DR**) will be dependent on the difficulty of the task. When it is obvious to the characters, The Keeper may share the DR before an attempt is made. **Meeting or exceeding the DR results in success.** To determine DR, use this chart:
 
-<table>
-  <tr>
-   <td>Difficulty
-   </td>
-   <td>Target <strong>DR</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Trivial
-   </td>
-   <td>6
-   </td>
-  </tr>
-  <tr>
-   <td>Easy
-   </td>
-   <td>8
-   </td>
-  </tr>
-  <tr>
-   <td>Average
-   </td>
-   <td>12
-   </td>
-  </tr>
-  <tr>
-   <td>Hard
-   </td>
-   <td>16
-   </td>
-  </tr>
-  <tr>
-   <td>Barely Doable
-   </td>
-   <td>18
-   </td>
-  </tr>
-</table>
+| Difficulty    | Target **DR** |
+|---------------|---------------|
+| Trivial       | 6             |
+| Easy          | 8             |
+| Average       | 12            |
+| Hard          | 16            |
+| Barely doable | 18            |
 
 ### Example
 
@@ -1276,108 +988,17 @@ However, there is nothing to worry about; you can become better through **promot
 
 ## Sweep Shop
 
-<table>
-  <tr>
-   <td>Cost
-   </td>
-   <td>Item
-   </td>
-   <td>Type
-   </td>
-   <td>Slots
-   </td>
-  </tr>
-  <tr>
-   <td>1 §
-   </td>
-   <td>MedPatch
-   </td>
-   <td>Item
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>1 §
-   </td>
-   <td>GoldVac
-   </td>
-   <td>Tech
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>1 §
-   </td>
-   <td>BlueCow Sugarfree
-   </td>
-   <td>Item
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>2 §
-   </td>
-   <td>DarkVisior
-   </td>
-   <td>Tech
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>3 §
-   </td>
-   <td>Buckler
-   </td>
-   <td>Armor
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>4 §
-   </td>
-   <td>MIDAS TECH Cutlass
-   </td>
-   <td>Weapon
-   </td>
-   <td>2
-   </td>
-  </tr>
-  <tr>
-   <td>5 §
-   </td>
-   <td>Sol Digest
-   </td>
-   <td>Magazine Subscription
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td>10 §
-   </td>
-   <td>Expansion Pack
-   </td>
-   <td>Upgrade
-   </td>
-   <td>N/A
-   </td>
-  </tr>
-  <tr>
-   <td>24 §
-   </td>
-   <td>Revivify
-   </td>
-   <td>Item
-   </td>
-   <td>4
-   </td>
-  </tr>
-</table>
+| Cost | Item               | Type                  | Slots |
+|------|--------------------|-----------------------|-------|
+| 1    | MedPatch           | Item                  | 0     |
+| 1    | GoldVac            | Tech                  | 1     |
+| 1    | BlueCow Sugarfree  | Item                  | 0     |
+| 2    | DarkVisior         | Tech                  | 1     |
+| 3    | Buckler            | Armor                 | 1     |
+| 4    | MIDAS TECH Cutlass | Weapon                | 2     |
+| 5    | Sol Digest         | Magazine Subscription | N/A   |
+| 10   | Expansion Pack     | Upgrade               | N/A   |
+| 24   | Revivify           | Item                  | 4     |
 
 ## Promotions
 
@@ -1387,49 +1008,12 @@ Sweepers rise through four tiers of promotion: **Novice Sweeper**, **Senior Swee
 
 The Sweepers gain perks when promoted. _Suggested_ advancement  milestones and perks are represented on the table below:
 
-
-<table>
-  <tr>
-   <td> Successful Sweeps
-   </td>
-   <td> Rank
-   </td>
-   <td> Perks
-   </td>
-  </tr>
-  <tr>
-   <td>0
-   </td>
-   <td> <strong>Novice Sweeper</strong>
-   </td>
-   <td> None
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td> <strong>Senior Sweeper</strong>
-   </td>
-   <td> Health Benefits
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td> <strong>Team Leader</strong>
-   </td>
-   <td> Intern
-   </td>
-  </tr>
-  <tr>
-   <td>8
-   </td>
-   <td> <strong>Crypt Warden</strong>
-   </td>
-   <td> Retirement
-   </td>
-  </tr>
-</table>
+| Successful Sweeps |        Rank        |      Perks      |
+|:-----------------:|:------------------:|:---------------:|
+|         0         | **Novice Sweeper** |      None.      |
+|         3         | **Senior Sweeper** | Health Benefits |
+|         5         |   **Team Leader**  |      Intern     |
+|         8         |  **Crypt Warden**  |    Retirement   |
 
 **Health Benefits:** Heal to full health and heal diseases when you finish a Sweep.
 
@@ -1445,4 +1029,4 @@ The intern follows your commands and trusts your ability as a Sweeper. They are,
 
 Alternatively, play another game system keeping the same character. *Support other developers, buy indie products!*
 
-**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**                                                                                                                                                                   
+**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**
