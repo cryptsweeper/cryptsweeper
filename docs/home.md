@@ -878,7 +878,6 @@ _For example, Marisa rolls 3d6 for MIGHT, getting an 11. She records 0 on her ch
   </tr>
 </table>
 
-
 **Weapon:** The name of the weapon. What does it look like? How do you wield it? Get creative!
 
 **Slots:** How many inventory slots the weapon occupies.
@@ -891,9 +890,7 @@ _E.g.- Marisa has +1 **MIGHT **and hits a psycho-spider with her TactiAxe. She d
 
 **Range:** The effective range of the weapon. Cumulative; if a weapon is effective at Close, it also is effective at Beside. To learn more about ranges in Crypt Sweepers, read the “Ranges” section in the next chapter.
 
-
 ## Armor
-
 
 <table>
   <tr>
@@ -948,7 +945,6 @@ Penalty
   </tr>
 </table>
 
-
 **Armor:** The type of armor. These are broad intentionally. Powered armor specifically is “tech armor” and is somewhat more niche.
 
 **Slots:** How many inventory slots the armor occupies.
@@ -959,9 +955,7 @@ Penalty
 
 **Enhance:** Powered Armor specifically enhances its wearer’s **MIGHT**. When wearing Powered Armor, you gain advantage on all **MIGHT** tests.
 
-
 ## Sweep Tech
-
 
 <table>
   <tr>
@@ -1031,7 +1025,7 @@ Penalty
    </td>
    <td>∞*
    </td>
-   <td>A small, ball-shaped drone with <strong>2 HP</strong>. It obeys the simple commands: move, help, nudge.𐠒
+   <td>A small, ball-shaped drone with <strong>2 HP</strong>. It obeys the simple commands: move, help, nudge. +
    </td>
   </tr>
   <tr>
@@ -1056,10 +1050,8 @@ Penalty
   </tr>
 </table>
 
-
 _* Until destroyed._
-
-_𐠒 The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
+_+ The Sphere drone will act in combat on the Sweeper’s turn. It cannot attack and will only follow the simple commands listed. It can help you attack by distracting foes._
 
 **Tech:** The name of the item. Players can dictate what their items look like or what exactly they are.
 
