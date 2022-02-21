@@ -2,21 +2,13 @@
 
 Written by Nicholas Saulnier
 
-Art & Illustration by Nicholas Saulnier & ???.
-
-Layout by Nicholas Saulnier
-
-Edited by ???.
-
-Playtesting done by Marisa Laponsee, Raphael Sandler, Nicholas Hayashi, and more.
-
 **V 1.02 (February 2022)**
 
 **LICENSE**
 
 This work is licensed under Creative Commons CC BY-NC-SA.
 
-You can share it for free, adapt it to your own system, edit it, print it and leave it in local game stores. You just can’t sell it for money, and you have to credit me somewhere.
+_You can share it for free, adapt it to your own system, edit it, print it and leave it in local game stores. You just can’t sell it for money, and you have to credit me somewhere._
 
 # Getting Started
 
@@ -1451,4 +1443,4 @@ The intern follows your commands and trusts your ability as a Sweeper. They are,
 
 Alternatively, play another game system keeping the same character. *Support other developers, buy indie products!*
 
-**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**                                                                                                                                                                              
+**Crypt Sweepers is a rules-light, laughs-heavy dungeon exploration game about working the worst job in the universe and trying to survive together.**
